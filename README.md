@@ -1,1 +1,3 @@
 # PedestrianDetectionPrototyping
+
+Just trying some things out to detect pedestrians...
